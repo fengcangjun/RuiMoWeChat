@@ -1,0 +1,70 @@
+@media only screen and (min-width: 550px) {
+	.dynamic-con {
+		height: 110px;
+	}
+	.solution-t-name,
+	.order,
+	.introduce-text span,
+	.con-ul-text {
+		font-size: 18px;
+	}
+	.header {
+		font-size: 24px;
+	}
+	.con-ul-img {
+		width: 25%;
+	}
+	.contact-num,
+	.contact-name {
+		line-height: 66px;
+		font-size: 18px;
+	}
+	.terrace-name,
+	.terrace-text,
+	.function-text {
+		font-size: 18px;
+		line-height: 26px;
+	}
+	.solution-t-text,
+	.response-con,
+	.order span,
+	.introduce-text {
+		font-size: 16px;
+	}
+	.text-indent,
+	.detail-time {
+		font-size: 14px;
+	}
+	.campus-text {
+		font-size: 1.5rem;
+		line-height: 2rem;
+	}
+	.text-indent {
+		font-size: 14px;
+	}
+	.name {
+		height: 5rem;
+	}
+	.text {
+		width: 7rem;
+		margin-top: 2.7%;
+		font-size: 25px;
+	}
+	.function-text {
+		font-size: 18px;
+		line-height: 26px;
+	}
+	.finance-table tr {
+		height: 90px;
+	}
+	.finance-table tr td:nth-child(odd) {
+		font-size: 16px;
+	}
+	.finance-table tr td:nth-child(even) {
+		padding: 0 10px;
+		font-size: 14px;
+	}
+	.About-header{
+		font-size: 20px;
+	}
+}
